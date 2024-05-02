@@ -5,5 +5,6 @@
 
 ## Update - 05/02/2024
 #### User can even input the movies titles that not in the dataset, the system will still gives recommendations.
-#### Several edge cases were dealt with
-#### Finished "From genres to movies": input a LIST of genres, can return a list of movies titles.
+#### Recommend_with_history now will consider the timestamps and the ratings. The system will recommend the movies that the users have recently watched and liked the most.
+#### Several edge cases were dealt with.
+#### Finished "From genres to movies": input a LIST of genres, return a LIST of movies titles.
