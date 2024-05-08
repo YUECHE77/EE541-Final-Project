@@ -8,3 +8,5 @@
 #### Recommend_with_history now will consider the timestamps and the ratings. The system will recommend the movies that the users have recently watched and liked the most.
 #### Finished "From genres to movies": input a LIST of genres, return a LIST of movies titles.
 #### Several edge cases were dealt with. The code should be more robust now.
+
+## Finished - 05/04/2024
