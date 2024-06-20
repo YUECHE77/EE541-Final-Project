@@ -1,4 +1,7 @@
 # Sentence Bert movie recommendation system
+#
+# * I rewrite this project, please refer to my new repository*
+#
 ### Required libraries:
 #### pandas, numpy, matplotlib, seaborn, json, random, logging, sklearn, torch, sentence_transformers, transformers
 
